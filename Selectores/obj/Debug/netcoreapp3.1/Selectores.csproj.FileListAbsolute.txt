@@ -1,0 +1,11 @@
+/Users/tom/Desktop/C#/Selectores/Selectores/bin/Debug/netcoreapp3.1/Selectores.deps.json
+/Users/tom/Desktop/C#/Selectores/Selectores/bin/Debug/netcoreapp3.1/Selectores.runtimeconfig.json
+/Users/tom/Desktop/C#/Selectores/Selectores/bin/Debug/netcoreapp3.1/Selectores.runtimeconfig.dev.json
+/Users/tom/Desktop/C#/Selectores/Selectores/bin/Debug/netcoreapp3.1/Selectores.dll
+/Users/tom/Desktop/C#/Selectores/Selectores/bin/Debug/netcoreapp3.1/Selectores.pdb
+/Users/tom/Desktop/C#/Selectores/Selectores/obj/Debug/netcoreapp3.1/Selectores.AssemblyInfoInputs.cache
+/Users/tom/Desktop/C#/Selectores/Selectores/obj/Debug/netcoreapp3.1/Selectores.AssemblyInfo.cs
+/Users/tom/Desktop/C#/Selectores/Selectores/obj/Debug/netcoreapp3.1/Selectores.csproj.CoreCompileInputs.cache
+/Users/tom/Desktop/C#/Selectores/Selectores/obj/Debug/netcoreapp3.1/Selectores.dll
+/Users/tom/Desktop/C#/Selectores/Selectores/obj/Debug/netcoreapp3.1/Selectores.pdb
+/Users/tom/Desktop/C#/Selectores/Selectores/obj/Debug/netcoreapp3.1/Selectores.genruntimeconfig.cache
